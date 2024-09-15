@@ -1,5 +1,5 @@
 # OTT-Churn-Prediction-
-PROBLEM DEFINITION
+<b> Problem Definition </b> <br>
  In the highly competitive world of OTT (Over-the-Top) streaming platforms, subscriber
  churn– the rate at which customers cancel their subscriptions– is a major financial
  hurdle. OTT platforms strive to retain users by offering compelling content libraries, but
@@ -13,15 +13,15 @@ PROBLEM DEFINITION
  allows for more efficient resource allocation and content development, ultimately leading
  to a sustainable and profitable business model for the OTT platform.
 
-Algorithms used
-1.Logistic Regression
-2. Decision Tree
-3. Random Forestclassifier
-4. Graident Boosting Classifier
-5. KNN Classification
-6. Naive Bayes
+<b>Algorithms used</b> <br>
+1.Logistic Regression <br>
+2. Decision Tree <br>
+3. Random Forestclassifier <br>
+4. Graident Boosting Classifier <br>
+5. KNN Classification <br>
+6. Naive Bayes <br>
  
-<b> Conclusion </b>
+<b> Conclusion </b> <br>
  The analysis of various machine learning algorithms for churn prediction on OTT
  platforms indicates that the Gradient Boosting Classifier is the most effective model with
  the highest accuracy score of 89.66%. This demonstrates its ability to capture complex
